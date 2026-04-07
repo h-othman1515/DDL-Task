@@ -21,7 +21,7 @@ A collection of SQL Server DDL exercises covering database and table creation, c
 
 | File | Description |
 |------|-------------|
-| `DDL_Tasks.sql` | All 30 main tasks + 10 optional tasks |
+| `storeDB.sql` | All 30 main tasks + 10 optional tasks |
 
 ---
 
